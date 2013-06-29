@@ -1,0 +1,29 @@
+.main {
+    margin: 1em;
+    font-family: Helvetica, sans-serif;
+}
+
+.main h1 {
+    color: #444;
+}
+
+.main th {
+    background-color: #eee;
+    font-size: 80%;
+    font-weight: normal;
+    text-align: left;
+}
+
+.main td {
+    font-size: 80%;
+    font-weight: normal;
+    text-align: center;
+}
+
+.main .yes {
+    background-color: #8e8;
+}
+
+.main .no {
+    background-color: #e88;
+}
