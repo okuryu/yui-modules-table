@@ -1,1 +1,4 @@
+branches:
+  only:
+    - gh-pages
 script: phantomjs make_table.js
