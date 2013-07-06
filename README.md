@@ -10,7 +10,7 @@ abolished at the same time as adding the module also has deprecated in recent.
 This is an important development cycle in helping to build the YUI platform
 with limited resources to provide.
 
-## How to generate the table
+## Building 
 
 Install [Node.js](http://nodejs.org/) and [PhantomJS](http://phantomjs.org/).
 
@@ -21,7 +21,7 @@ npm install jshint
 make lint
 ```
 
-Generating:
+Building:
 
 ```
 make build
