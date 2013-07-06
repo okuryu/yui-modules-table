@@ -29,4 +29,4 @@ make build
 
 ## License
 
-See `LICENSE.md`.
+See [LICENSE.md](https://github.com/okuryu/yui-modules-table/blob/gh-pages/LICENSE.md).
