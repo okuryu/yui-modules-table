@@ -1,6 +1,6 @@
 # YUI Modules Table
 
-[![Build Status](https://secure.travis-ci.org/okuryu/yui-modules-table.png?branch=gh-pages)](http://travis-ci.org/okuryu/yui-modules-table)
+[![Build Status](https://travis-ci.org/okuryu/yui-modules-table.svg?branch=gh-pages)](https://travis-ci.org/okuryu/yui-modules-table)
 
 The [YUI](http://yuilibrary.com/) core modules table each versions.
 
