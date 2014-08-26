@@ -27,6 +27,10 @@ Building:
 make build
 ```
 
+## Author
+
+* Ryuichi Okumura ([@okuryu](https://github.com/okuryu))
+
 ## License
 
 See [LICENSE.md](https://github.com/okuryu/yui-modules-table/blob/gh-pages/LICENSE.md).
