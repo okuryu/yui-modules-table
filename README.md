@@ -10,7 +10,7 @@ abolished at the same time as adding the module also has deprecated in recent.
 This is an important development cycle in helping to build the YUI platform
 with limited resources to provide.
 
-## Building 
+## Building
 
 Install [Node.js](http://nodejs.org/) and [PhantomJS](http://phantomjs.org/).
 
@@ -33,4 +33,4 @@ make build
 
 ## License
 
-See [LICENSE.md](https://github.com/okuryu/yui-modules-table/blob/gh-pages/LICENSE.md).
+This code is available under the [BSD license](LICENSE.md).
