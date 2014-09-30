@@ -33,4 +33,4 @@ make build
 
 ## License
 
-This code is available under the [BSD license](LICENSE.md).
+This code is available under the [BSD license](LICENSE).
